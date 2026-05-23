@@ -1,4 +1,4 @@
-# Churn_Project
+# Analyzing Data Leakage in a Churn dataset
 
 This is an attempt to implement Logistic Regression on a Netflix Churn data from Kaggle. This project covers feature engineering, EDA, model creation, model evaluation, and finally a business centric approach to turn the output of the model into a business driven insight.
 
